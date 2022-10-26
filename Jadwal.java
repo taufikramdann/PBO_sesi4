@@ -5,7 +5,7 @@ public  class  Jadwal {
     public  static  void  main ( String [] args ) {
         //Utama
 
-        Mahasiswa  mhs = Mahasiswa baru  ( "Abi Fajarp" );
+        Mahasiswa  mhs = Mahasiswa baru  ( "Taufik Ramdan" );
         mhs . info ();
 
         mhs = new  Dosen ( "Alun Sujjada M.Kom" );
